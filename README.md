@@ -11,7 +11,7 @@
 [<img align="left" alt="amirhessam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -25,7 +25,7 @@
 
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&hide_border=true" />
 
-
+---
 [website]: https://www.amirhessam.com
 [linkedin]: https://www.linkedin.com/in/amirhessam/
 
