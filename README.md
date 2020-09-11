@@ -35,17 +35,14 @@
 [linkedin]: https://www.linkedin.com/in/amirhessam/
 [gscholar]: https://scholar.google.com/citations?user=CnHZjFAAAAAJ&hl=en/
 [rgate]: https://www.researchgate.net/profile/Amirhessam_Tahmassebi/
-researchgate.svg
 <br />
 <br />
-<!--
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
--->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/amirhessam88/amirhessam88)
 ![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
 
+<!-- END OF README  -->
 
 <!--
 **amirhessam88/amirhessam88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
