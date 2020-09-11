@@ -1,10 +1,10 @@
 ### Hi there, I'm Amir 👋
 
 
-- 🔭 Currently working on [SlickML][https://github.com/slickml/slick-ml]
-- 🌱 Currently learning more details on development of a open-source software
-- 👯 Looking to collaborate on cool Machine Learning projects and publications
-
+- 🔭 Currently Working on [SlickML](https://github.com/slickml/slick-ml)
+- 🌱 Currently Learning More Details on Development of a Open Source Software
+- 👯 Looking to Collaborate on Cool Machine Learning Projects & Publications
+- 💬 Ask me about Data Science, Machine Learning, & Scientific Computing.
 ### Connect with me:
 
 [<img align="left" alt="amirhessam | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
