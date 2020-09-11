@@ -25,6 +25,8 @@
 <img align="left" alt="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />
 <img align="left" alt="OpenSuse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensuse.svg" />
 
+---
+
 <br />
 <br />
 
