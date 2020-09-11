@@ -9,9 +9,9 @@
 ---
 
 ### Connect with me:
-
 [<img align="left" alt="amirhessam | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="amirhessam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amirhessam | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][gscholar]
 
 <br />
 <br />
@@ -29,8 +29,9 @@
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&hide_border=true" />
 
 ---
-[website]: https://www.amirhessam.com
+[website]: https://www.amirhessam.com/
 [linkedin]: https://www.linkedin.com/in/amirhessam/
+[gscholar]: https://scholar.google.com/citations?user=CnHZjFAAAAAJ&hl=en/
 
 <br />
 <br />
