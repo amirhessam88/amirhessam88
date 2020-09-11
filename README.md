@@ -1,13 +1,13 @@
 ### Hi there, I'm Amir 👋
 
 
-- 🔭 I’m currently working on [SlickML][https://github.com/slickml/slick-ml].
-- 🌱 I’m currently learning more details on development of a open-source software
-- 👯 I’m looking to collaborate on cool Machine Learning projects and publications
+- 🔭 Currently working on [SlickML][https://github.com/slickml/slick-ml]
+- 🌱 Currently learning more details on development of a open-source software
+- 👯 Looking to collaborate on cool Machine Learning projects and publications
 
 ### Connect with me:
 
-[<img align="left" alt="amirhessam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="amirhessam | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="amirhessam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -26,11 +26,8 @@
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&hide_border=true" />
 
 
-[website]: https://aljagne.com
-[twitter]: https://twitter.com/aljagne
-[youtube]: https://youtube.com/aljagne
-[instagram]: https://instagram.com/aljagne
-[linkedin]: https://www.linkedin.com/in/aljagne/
+[website]: https://www.amirhessam.com
+[linkedin]: https://www.linkedin.com/in/amirhessam/
 
 <!--
 **amirhessam88/amirhessam88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
