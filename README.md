@@ -1,5 +1,5 @@
 ### Hi there, I'm Amir 👋
-<img src="https://github.com/amirhessam88/amirhessam88/blob/master/media/banner.gif" width=100%>
+<img src="https://github.com/amirhessam88/amirhessam88/blob/master/assets/banner.gif" width=100%>
 
 - 🔭 Working on [SlickML](https://github.com/slickml/slick-ml)
 - 🌱 Learning More Details on Development of a Open Source Software
