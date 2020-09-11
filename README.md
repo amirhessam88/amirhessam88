@@ -29,6 +29,16 @@
 [website]: https://www.amirhessam.com
 [linkedin]: https://www.linkedin.com/in/amirhessam/
 
+
+<!--
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+-->
+
+![GitHub last commit](https://img.shields.io/github/last-commit/amirhessam88/amirhessam88)
+![pv](https://pageview.vercel.app/?github_user=amirhessam88)
+
+
+
 <!--
 **amirhessam88/amirhessam88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
