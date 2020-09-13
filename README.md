@@ -24,6 +24,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" alt="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />
 <img align="left" alt="OpenSuse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensuse.svg" />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
+<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />
 
 
 <br />
