@@ -19,16 +19,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />
-<img align="left" alt="OpenSuse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensuse.svg" />
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
-<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
-<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />][bash]
+[<img align="left" alt="OpenSuse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensuse.svg" />][opensuse]
+[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />][jupyter]
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][pandas]
+[<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />][tensorflow]
+[<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />][pytorch]
+[<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />][keras]
 
 
 <br />
@@ -38,10 +38,23 @@
 
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&hide_border=true" />
 
+# Links
 [website]: https://www.amirhessam.com/
 [linkedin]: https://www.linkedin.com/in/amirhessam/
 [gscholar]: https://scholar.google.com/citations?user=CnHZjFAAAAAJ&hl=en/
 [rgate]: https://www.researchgate.net/profile/Amirhessam_Tahmassebi/
+[python]: https://www.python.org/
+[git]: https://git-scm.com/
+[github]: https://www.github.com/
+[bash]: https://www.gnu.org/software/bash/
+[opensuse]: https://www.opensuse.org/
+[jupyter]: https://jupyter.org/
+[pandas]: https://pandas.pydata.org/
+[tensorflow]: https://www.tensorflow.org/
+[pytorch]: https://pytorch.org/
+[keras]: https://keras.io/
+
+
 <br />
 <br />
 
