@@ -3,7 +3,7 @@
 
 - 🔭 Working on [SlickML](https://github.com/slickml/slick-ml)
 - 🌱 Learning More Details on Development of a Open Source Software
-- 👯 Looking to Collaborate on Cool Machine Learning Projects & Publications
+- 👯 Open to Collaborate on Cool Machine Learning Projects & Publications
 - 💬 Ask me about Data Science, Machine Learning & Scientific Computing
 
 ---
@@ -38,7 +38,6 @@
 
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&hide_border=true" />
 
-# Links
 [website]: https://www.amirhessam.com/
 [linkedin]: https://www.linkedin.com/in/amirhessam/
 [gscholar]: https://scholar.google.com/citations?user=CnHZjFAAAAAJ&hl=en/
