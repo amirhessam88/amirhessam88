@@ -1,3 +1,5 @@
+
+![GitHub last commit](https://img.shields.io/github/last-commit/amirhessam88/amirhessam88)
 ### Hi there, I'm Amir 👋
 <img src="https://github.com/amirhessam88/amirhessam88/blob/master/assets/banner.gif" width="267" height="300"/>
 
