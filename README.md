@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://github.com/slickml/slickml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=slickml&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=slick-ml&theme=highcontrast" />
 </a>
 
 <a href="https://amirhessam88.github.io">
