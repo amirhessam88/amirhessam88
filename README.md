@@ -34,13 +34,34 @@
 <br />
 <br />
 
-
----
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
-
+<!--
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&theme=highcontrast&show_icons=true&hide_border=true" />
+-->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amir's Github Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88&layout=compact&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=amirhessam88.github.io&theme=highcontrast" />
+</a>    
+<a href="https://github.com/amirhessam88/slickml">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=slickml&theme=highcontrast" />
+</a>
+
+
+
+
+
 
 [website]: https://www.amirhessam.com/
 [linkedin]: https://www.linkedin.com/in/amirhessam/
