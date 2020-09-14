@@ -44,19 +44,21 @@
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.amirhessam.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amir's Github Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://www.amirhessam.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88&layout=compact&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=amirhessam88.github.io&theme=highcontrast" />
-</a>    
-<a href="https://github.com/amirhessam88/slickml">
+<a href="https://github.com/slickml/slickml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=slickml&theme=highcontrast" />
 </a>
+
+<a href="https://amirhessam88.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=amirhessam88.github.io&theme=highcontrast" />
+</a>    
 
 
 
