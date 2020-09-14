@@ -1,5 +1,6 @@
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/amirhessam88/amirhessam88)
+![pv](https://pageview.vercel.app/?github_user=amirhessam88)
+
 ### Hi there, I'm Amir 👋
 <img src="https://github.com/amirhessam88/amirhessam88/blob/master/assets/banner.gif" width="267" height="300"/>
 
@@ -86,8 +87,6 @@
 <br />
 <br />
 
-![GitHub last commit](https://img.shields.io/github/last-commit/amirhessam88/amirhessam88)
-![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
 
 <!-- END OF README  -->
