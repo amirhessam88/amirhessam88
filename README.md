@@ -34,10 +34,13 @@
 <br />
 <br />
 
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <img align="left" alt="amirhessam88's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&theme=highcontrast&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88&layout=compact)]
 
 [website]: https://www.amirhessam.com/
 [linkedin]: https://www.linkedin.com/in/amirhessam/
