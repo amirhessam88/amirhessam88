@@ -23,6 +23,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vim]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />][bash]
@@ -82,6 +83,7 @@
 [tensorflow]: https://www.tensorflow.org/
 [pytorch]: https://pytorch.org/
 [keras]: https://keras.io/
+[vim]: https://www.vim.org/download.php
 
 
 <br />
