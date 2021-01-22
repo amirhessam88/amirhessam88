@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/amirhessam88/amirhessam88)
+![GitHub last commit](https://img.shields.io/github/last-commit/slickml/slick-ml)
 ![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
 ### Hi there, I'm Amir 👋
