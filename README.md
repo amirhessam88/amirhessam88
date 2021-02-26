@@ -4,7 +4,7 @@
 ### Hi there, I'm Amir 👋
 <img src="https://github.com/amirhessam88/amirhessam88/blob/master/assets/banner.gif" width="267" height="300"/>
 
-- 🔭 Working on [SlickML](https://github.com/slickml/slick-ml)
+- 🔭 Working on [Slick-ML](https://github.com/slickml/slick-ml) & [ML-Algs](https://github.com/amirhessam88/ml-algs)
 - 🌱 Learning More Details on Development of a Open Source Software
 - 👯 Open to Collaborate on Cool Machine Learning Projects & Publications
 - 💬 Ask me about Data Science, Machine Learning & Scientific Computing
