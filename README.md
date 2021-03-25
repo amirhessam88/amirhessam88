@@ -7,7 +7,7 @@
 - 🔭 Working on [Slick-ML](https://github.com/slickml/slick-ml) & [ML-Algs](https://github.com/amirhessam88/ml-algs)
 - 🌱 Learning More Details on Development of a Open Source Software
 - 👯 Open to Collaborate on Cool Machine Learning Projects & Publications
-- 💬 Ask me about Data Science, Machine Learning & Scientific Computin
+- 💬 Ask me about Data Science, Machine Learning & Scientific Computing
 - ⚡ Support me by Buying Me a Coffee 
 
 <a href="https://www.buymeacoffee.com/amirhessam"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amirhessam&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
