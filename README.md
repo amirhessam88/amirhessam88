@@ -1,3 +1,4 @@
+[![metrics](https://github.com/amirhessam88/amirhessam88/actions/workflows/metrics.yml/badge.svg?branch=master)](https://github.com/amirhessam88/amirhessam88/actions/workflows/metrics.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/slickml/slick-ml)
 ![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
