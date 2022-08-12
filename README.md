@@ -1,10 +1,14 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/slickml/slick-ml)
 ![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
-### Hi there, I'm Amir 👋
+
+![Metrics](https://metrics.lecoq.io/amirhessam88?template=classic&isocalendar=1&languages=1&followup=1&lines=1&notable=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FChicago)
+
+
+
 <img src="https://github.com/amirhessam88/amirhessam88/blob/master/assets/banner.gif" width="267" height="300"/>
 
-- 🔭 Working on [Slick-ML](https://github.com/slickml/slick-ml) & [ML-Algs](https://github.com/amirhessam88/ml-algs)
+- 🔭 Working on [Slick-ML](https://github.com/slickml/slick-ml)
 - 🌱 Learning More Details on Development of a Open Source Software
 - 👯 Open to Collaborate on Cool Machine Learning Projects & Publications
 - 💬 Ask me about Data Science, Machine Learning & Scientific Computing
@@ -22,23 +26,7 @@
 <br />
 <br />
 
-### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vim]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="PowerShell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />][bash]
-[<img align="left" alt="OpenSuse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensuse.svg" />][opensuse]
-[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />][jupyter]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][pandas]
-[<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />][tensorflow]
-[<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />][pytorch]
-[<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />][keras]
-
-
-<br />
-<br />
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,13 +38,10 @@
 -->
 
 
-<a href="https://www.amirhessam.com">
+<!-- <a href="https://www.amirhessam.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amir's Github Stats" />
-</a>
+</a> -->
 
-<a href="https://www.amirhessam.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhessam88&layout=compact&theme=highcontrast" />
-</a>
 
 <a href="https://github.com/slickml/slickml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirhessam88&repo=slick-ml&theme=highcontrast" />
