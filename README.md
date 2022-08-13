@@ -3,11 +3,10 @@
 ![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
 
-![Metrics](https://metrics.lecoq.io/amirhessam88?template=classic&isocalendar=1&languages=1&followup=1&lines=1&notable=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FChicago)
+<a href="https://metrics.lecoq.io/about/amirhessam88"><img src="assets/metrics.svg" width="47.5%"></img></a>
 
 
-
-<img src="https://github.com/amirhessam88/amirhessam88/blob/master/assets/banner.gif" width="267" height="300"/>
+<img src="assets/banner.gif" width="267" height="300"/>
 
 - 🔭 Working on [Slick-ML](https://github.com/slickml/slick-ml)
 - 🌱 Learning More Details on Development of a Open Source Software
