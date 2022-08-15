@@ -3,7 +3,8 @@
 ![pv](https://pageview.vercel.app/?github_user=amirhessam88)
 
 
-<a href="https://metrics.lecoq.io/about/amirhessam88"><img src="assets/metrics.svg" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/amirhessam88"><img src="assets/metrics_left.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/amirhessam88"><img src="assets/metrics_right.svg" align="left" width="47.5%"></img></a>
 
 
 <img src="assets/banner.gif" width="267" height="300"/>
