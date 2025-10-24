@@ -1,6 +1,6 @@
 [![metrics](https://github.com/amirhessam88/amirhessam88/actions/workflows/metrics.yml/badge.svg?branch=master)](https://github.com/amirhessam88/amirhessam88/actions/workflows/metrics.yml)
-![GitHub last commit](https://img.shields.io/github/last-commit/slickml/slick-ml)
-![pv](https://pageview.vercel.app/?github_user=amirhessam88)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amirhessam88&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy&theme=dark)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5F7FFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Software+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 
 <a href="https://metrics.lecoq.io/about/amirhessam88"><img src="assets/metrics_left.svg" align="left" width="47.5%"></img></a>
@@ -17,6 +17,9 @@
 
 <a href="https://www.buymeacoffee.com/amirhessam"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amirhessam&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 ---
+
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhessam88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Amir's%20GitHub%20Stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirhessam88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### Connect with me:
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
