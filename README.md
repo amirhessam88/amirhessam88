@@ -1,6 +1,6 @@
 [![metrics](https://github.com/amirhessam88/amirhessam88/actions/workflows/metrics.yml/badge.svg?branch=master)](https://github.com/amirhessam88/amirhessam88/actions/workflows/metrics.yml)
 [![trophy](https://github-profile-trophy.vercel.app/?username=amirhessam88&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy&theme=dark)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5F7FFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Software+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5F7FFF&center=true&vCenter=true&width=600&lines=PhD+in+Computational+Science;Staff+Software+Engineer+at+RV-Tech;Open+Source+Contributor)](https://git.io/typing-svg)
 
 
 <a href="https://metrics.lecoq.io/about/amirhessam88"><img src="assets/metrics_left.svg" align="left" width="47.5%"></img></a>
