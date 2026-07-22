@@ -9,12 +9,9 @@
 <br clear="both" />
 
 - 🔭 Working on [Slick-ML OSS](https://github.com/slickml)
-- 🌱 Learning More Details on Development of a Open Source Software
 - 👯 Open to Collaborate on Cool Machine Learning Projects & Publications
-- 💬 Ask me about Data Science, Machine Learning & Scientific Computing
-- ⚡ Support me by Buying Me a Coffee
+- 💬 Ask me about AI, ML, MLOps, ...
 
-<a href="https://www.buymeacoffee.com/amirhessam"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amirhessam&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" /></a>
 
 ### Skills
 
