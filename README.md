@@ -35,15 +35,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][gscholar]
-[<img align="left" alt="Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][rgate]
-
-<br />
-<br />
-
-[website]: https://www.amirhessam.com/
-[linkedin]: https://www.linkedin.com/in/amirhessam/
-[gscholar]: https://scholar.google.com/citations?user=CnHZjFAAAAAJ&hl=en/
-[rgate]: https://www.researchgate.net/profile/Amirhessam_Tahmassebi/
+[![Website](https://img.shields.io/badge/Website-5F7FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amirhessam.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhessam/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=CnHZjFAAAAAJ&hl=en/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Amirhessam_Tahmassebi/)
